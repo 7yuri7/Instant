@@ -24,4 +24,4 @@ same case in python; python or python3.<br>
 
 # Re-Run
 Just use "source myenv/bin/activate",(on the instant directory)<br>
-then python instante.py<br>
+then python "instante.py"<br>
