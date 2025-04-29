@@ -22,3 +22,6 @@ using sudo apt install python3-pip.	<br>
 to use pip you can use pip or pip3.<br>
 same case in python; python or python3.<br>
 
+# Re-Run
+Just use "source myenv/bin/activate",(on the instant directory)<br>
+then python instante.py<br>
